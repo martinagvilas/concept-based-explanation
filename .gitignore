@@ -1,0 +1,8 @@
+# OS
+.DS_Store
+
+# IDE
+.vscode
+
+# Notebook
+.ipynb_checkpoints
