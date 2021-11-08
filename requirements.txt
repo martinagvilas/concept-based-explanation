@@ -1,5 +1,6 @@
 jupyterlab
 scikit-learn
+scikit-image==0.17.2
 pandas
 torch
 torchvision
